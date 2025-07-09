@@ -1,0 +1,277 @@
+track_id,name,artist,album,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+4uAgFG7A8LwklfOLa5x4ZG,Kal Ho Naa Ho,Sonu Nigam,Kal Ho Naa Ho (Original Motion Picture Soundtrack),0.548,0.782,7,-5.244,1,0.0381,0.30400,0.000000,0.0963,0.378,103.045
+6ebprldffCF8AM3t1i2e0E,Tum Hi Ho,Arijit Singh,Aashiqui 2,0.569,0.484,11,-6.908,0,0.0289,0.83500,0.000000,0.1130,0.288,91.011
+2e3yY2H2H2T1g4i5y5,Chaiyya Chaiyya,Sukhwinder Singh,Dil Se,0.767,0.852,9,-5.940,1,0.0818,0.27800,0.000008,0.3280,0.793,127.996
+2r4U5fE2f2g5h6i7j8k9l0,Kabira,Tochi Raina,Yeh Jawaani Hai Deewani,0.493,0.732,0,-5.744,1,0.0345,0.32300,0.000000,0.1140,0.528,129.988
+2yK15nVNp4p4q5r6s7t8u9,Ghungroo,Arijit Singh,War,0.823,0.826,6,-4.239,0,0.0531,0.15800,0.000000,0.0573,0.841,115.977
+1Iq6n0s9t0u1v2w3x4y5z6,Apna Bana Le,Arijit Singh,Bhediya,0.470,0.478,7,-7.185,1,0.0315,0.75100,0.000000,0.1060,0.252,87.087
+4n1a2b3c4d5e6f7g8h9i0j,Kesariya,Arijit Singh,Brahmastra,0.658,0.734,1,-6.649,1,0.0379,0.42400,0.000000,0.1120,0.533,93.978
+0p9o8i7u6y5t4r3e2w1q0p,Makhna,Tanishk Bagchi,Drive,0.821,0.761,0,-5.463,1,0.0494,0.33400,0.000002,0.1030,0.709,104.991
+6a5s4d3f2g1h2j3k4l5m6n,Shayad,Arijit Singh,Love Aaj Kal,0.598,0.575,6,-7.485,1,0.0329,0.70000,0.000000,0.1040,0.478,122.019
+3q2w1e1r2t3y4u5i6o7p8a,Raatan Lambiyan,Tanishk Bagchi,Shershaah,0.722,0.598,9,-6.299,1,0.0313,0.48300,0.000000,0.1070,0.385,107.999
+7z8x9c0v1b2n3m4l5k6j7h,Manwa Laage,Shreya Ghoshal,Happy New Year,0.597,0.724,4,-6.678,1,0.0347,0.40700,0.000000,0.3470,0.533,115.011
+5f4e3d2c1b2a3s4d5f6g7h,Tujhe Kitna Chahne Lage,Arijit Singh,Kabir Singh,0.551,0.444,5,-7.904,1,0.0336,0.72900,0.000000,0.1040,0.354,103.882
+1q2w3e4r5t6y7u8i9o0p1a,Zaalima,Arijit Singh,Raees,0.648,0.732,1,-5.632,1,0.0406,0.27900,0.000000,0.0768,0.535,95.986
+2s3d4f5g6h7j8k9l0m1n2b,Senorita,Farhan Akhtar,Zindagi Na Milegi Dobara,0.854,0.778,9,-5.760,0,0.0491,0.02490,0.000000,0.0934,0.846,126.014
+3d4f5g6h7j8k9l0m1n2b3v,Sooraj Dooba Hain,Arijit Singh,Roy,0.672,0.880,1,-5.405,0,0.0495,0.06320,0.000000,0.0577,0.589,127.970
+4f5g6h7j8k9l0m1n2b3v4c,Khaabon Ke Parinday,Mohit Chauhan,Zindagi Na Milegi Dobara,0.569,0.655,7,-8.484,1,0.0267,0.39500,0.000007,0.1070,0.540,143.882
+5g6h7j8k9l0m1n2b3v4c5x,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,0.669,0.852,7,-5.474,1,0.0487,0.26400,0.000000,0.1980,0.593,124.030
+6h7j8k9l0m1n2b3v4c5x6z,Pehli Baar,Vishal Dadlani,Dil Dhadakne Do,0.730,0.914,6,-3.664,1,0.0630,0.07460,0.000000,0.0528,0.817,121.990
+7j8k9l0m1n2b3v4c5x6z7q,Galliyan,Ankit Tiwari,Ek Villain,0.552,0.702,9,-5.545,0,0.0280,0.43100,0.000000,0.1090,0.334,89.897
+0l1k2j3h4g5f6e7d8c9b0a,Subhanallah,Sreerama Chandra,Yeh Jawaani Hai Deewani,0.575,0.801,1,-6.611,1,0.0381,0.21100,0.000000,0.0895,0.638,102.007
+1k2j3h4g5f6e7d8c9b0a1s,Agar Tum Saath Ho,Alka Yagnik,Tamasha,0.554,0.528,9,-7.696,0,0.0315,0.71800,0.000000,0.1110,0.273,119.933
+2j3h4g5f6e7d8c9b0a1s2d,Channa Mereya,Arijit Singh,Ae Dil Hai Mushkil,0.495,0.454,0,-8.375,1,0.0441,0.57900,0.000000,0.0991,0.320,89.929
+3h4g5f6e7d8c9b0a1s2d3f,Ae Dil Hai Mushkil,Arijit Singh,Ae Dil Hai Mushkil,0.496,0.613,9,-6.039,0,0.0423,0.37000,0.000000,0.1840,0.222,117.930
+4g5f6e7d8c9b0a1s2d3f4g,Bulleya,Amit Mishra,Ae Dil Hai Mushkil,0.658,0.818,4,-4.937,0,0.0499,0.38000,0.000000,0.1330,0.590,92.010
+5f6e7d8c9b0a1s2d3f4g5h,Nashe Si Chadh Gayi,Arijit Singh,Befikre,0.826,0.835,5,-4.434,0,0.0569,0.06520,0.000000,0.0638,0.871,99.992
+6e7d8c9b0a1s2d3f4g5h6j,Ude Dil Befikre,Benny Dayal,Befikre,0.751,0.933,0,-3.490,1,0.0854,0.07340,0.000000,0.2790,0.771,119.987
+7d8c9b0a1s2d3f4g5h6j7k,The Breakup Song,Arijit Singh,Ae Dil Hai Mushkil,0.830,0.831,1,-4.217,1,0.0592,0.18000,0.000000,0.0699,0.760,105.021
+0c9b1a2s3d4f5g6h7j8k9l,Kar Gayi Chull,Badshah,Kapoor & Sons,0.816,0.870,0,-4.162,1,0.0560,0.15100,0.000000,0.0478,0.895,103.969
+1b2a3s4d5f6g7h8j9k0l1m,Kaun Tujhe,Palak Muchhal,M.S. Dhoni: The Untold Story,0.485,0.404,8,-7.234,1,0.0298,0.82400,0.000000,0.1160,0.245,103.991
+2a3s4d5f6g7h8j9k0l1m2n,Besabriyaan,Armaan Malik,M.S. Dhoni: The Untold Story,0.510,0.658,0,-5.719,1,0.0326,0.37100,0.000000,0.1210,0.287,117.922
+3s4d5f6g7h8j9k0l1m2n3b,Tere Sang Yaara,Atif Aslam,Rustom,0.569,0.677,8,-6.264,1,0.0287,0.46300,0.000000,0.0917,0.381,109.986
+4d5f6g7h8j9k0l1m2n3b4v,Jag Ghoomeya,Rahat Fateh Ali Khan,Sultan,0.583,0.672,8,-6.471,1,0.0401,0.36000,0.000000,0.1300,0.518,95.968
+5f6g7h8j9k0l1m2n3b4v5c,Sau Aasmaan,Armaan Malik,Baar Baar Dekho,0.749,0.840,7,-4.977,1,0.0392,0.27600,0.000000,0.0526,0.823,115.021
+6g7h8j9k0l1m2n3b4v5c6x,Kala Chashma,Amar Arshi,Baar Baar Dekho,0.796,0.956,8,-4.218,1,0.0833,0.06310,0.000000,0.2830,0.686,125.020
+7h8j9k0l1m2n3b4v5c6x7z,Love You Zindagi,Amit Trivedi,Dear Zindagi,0.720,0.659,2,-5.765,1,0.0558,0.44300,0.000000,0.1610,0.762,116.992
+0j9k1l2m3n4b5v6c7x8z9q,Humma Humma,A.R. Rahman,OK Jaanu,0.778,0.852,7,-5.221,1,0.0709,0.22300,0.000000,0.0573,0.758,110.020
+1k2l3m4n5b6v7c8x9z0q1w,Enna Sona,Arijit Singh,OK Jaanu,0.428,0.482,7,-7.152,1,0.0302,0.75100,0.000000,0.1060,0.301,107.989
+2l3m4n5b6v7c8x9z0q1w2e,Humsafar,Akhil Sachdeva,Badrinath Ki Dulhania,0.528,0.488,0,-8.032,1,0.0359,0.67500,0.000000,0.1080,0.311,103.955
+3m4n5b6v7c8x9z0q1w2e3r,Tamma Tamma Again,Bappi Lahiri,Badrinath Ki Dulhania,0.826,0.865,11,-4.385,0,0.0581,0.23100,0.000000,0.0633,0.856,110.000
+4n5b6v7c8x9z0q1w2e3r4t,Bom Diggy Diggy,Zack Knight,Sonu Ke Titu Ki Sweety,0.777,0.835,0,-3.351,1,0.0594,0.19900,0.000000,0.2830,0.814,110.043
+5b6v7c8x9z0q1w2e3r4t5y,Dil Diyan Gallan,Atif Aslam,Tiger Zinda Hai,0.598,0.518,9,-7.345,1,0.0289,0.74100,0.000000,0.0898,0.379,93.993
+6v7c8x9z0q1w2e3r4t5y6u,Swag Se Swagat,Vishal Dadlani,Tiger Zinda Hai,0.860,0.862,10,-3.491,0,0.0631,0.05190,0.000000,0.1070,0.841,110.004
+7c8x9z0q1w2e3r4t5y6u7i,Ban Ja Rani,Guru Randhawa,Tumhari Sulu,0.793,0.768,6,-4.862,0,0.0463,0.19800,0.000000,0.0654,0.720,107.994
+0x9z1q2w3e4r5t6y7u8i9o,Suit Suit,Guru Randhawa,Hindi Medium,0.761,0.810,6,-4.062,0,0.0516,0.14400,0.000000,0.0621,0.794,104.991
+1z2q3w4e5r6t7y8u9i0o1p,Mere Rashke Qamar,Nusrat Fateh Ali Khan,Baadshaho,0.612,0.777,8,-5.582,0,0.0416,0.43500,0.000000,0.1100,0.651,101.996
+2q3w4e5r6t7y8u9i0o1p2a,Baarish,Ash King,Half Girlfriend,0.560,0.640,4,-6.215,1,0.0308,0.62700,0.000000,0.1110,0.276,108.056
+3w4e5r6t7y8u9i0o1p2a3s,Tum Saath Ho,A.R. Rahman,Tamasha,0.554,0.528,9,-7.696,0,0.0315,0.71800,0.000000,0.1110,0.273,119.933
+4e5r6t7y8u9i0o1p2a3s4d,Pal Pal Dil Ke Paas,Arijit Singh,Pal Pal Dil Ke Paas,0.547,0.551,0,-6.817,1,0.0302,0.62500,0.000000,0.1110,0.364,104.013
+5r6t7y8u9i0o1p2a3s4d5f,Bekhayali,Sachet Tandon,Kabir Singh,0.496,0.635,9,-6.134,0,0.0366,0.45600,0.000000,0.1130,0.413,109.919
+6t7y8u9i0o1p2a3s4d5f6g,Tera Ban Jaunga,Akhil Sachdeva,Kabir Singh,0.556,0.467,4,-7.811,1,0.0326,0.70700,0.000000,0.1100,0.311,104.020
+7y8u9i0o1p2a3s4d5f6g7h,Ghar More Pardesiya,Shreya Ghoshal,Kalank,0.560,0.784,1,-5.579,1,0.0457,0.36600,0.000000,0.3470,0.443,124.960
+0u1i2o3p4a5s6d7f8g9h0j,First Class,Arijit Singh,Kalank,0.835,0.852,8,-3.868,1,0.0658,0.15500,0.000000,0.0653,0.836,111.998
+1i2o3p4a5s6d7f8g9h0j1k,The Jawaani Song,Vishal Dadlani,Student of the Year 2,0.817,0.892,1,-3.753,1,0.0716,0.12100,0.000000,0.0537,0.825,123.987
+2o3p4a5s6d7f8g9h0j1k2l,Fakira,Amit Mishra,Student of the Year 2,0.621,0.672,6,-6.034,1,0.0328,0.42800,0.000000,0.1100,0.457,100.009
+3p4a5s6d7f8g9h0j1k2l3m,Ve Maahi,Arijit Singh,Kesari,0.589,0.598,1,-6.635,1,0.0306,0.54800,0.000000,0.1120,0.380,100.046
+4a5s6d7f8g9h0j1k2l3m4n,Duniyaa,Akhil,Luka Chuppi,0.668,0.528,8,-7.531,1,0.0453,0.70000,0.000000,0.1100,0.453,109.987
+5s6d7f8g9h0j1k2l3m4n5b,Coca Cola,Tony Kakkar,Luka Chuppi,0.825,0.890,11,-3.504,0,0.0634,0.13200,0.000000,0.0535,0.841,124.981
+6d7f8g9h0j1k2l3m4n5b6v,Gully Boy,Ranveer Singh,Gully Boy,0.806,0.871,1,-4.246,1,0.2660,0.08810,0.000000,0.0768,0.718,94.975
+7f8g9h0j1k2l3m4n5b6v7c,Apna Time Aayega,Ranveer Singh,Gully Boy,0.739,0.854,0,-4.550,1,0.2460,0.05830,0.000000,0.1170,0.564,95.008
+0g9h1j2k3l4m5n6b7v8c9x,Kalank (Title Track),Arijit Singh,Kalank,0.460,0.598,5,-6.427,0,0.0325,0.48500,0.000000,0.1100,0.298,119.866
+1h2j3k4l5m6n7b8v9c0x1z,Ghar More Pardesiya,Shreya Ghoshal,Kalank,0.560,0.784,1,-5.579,1,0.0457,0.36600,0.000000,0.3470,0.443,124.960
+2j3k4l5m6n7b8v9c0x1z2q,Slow Motion,Nakash Aziz,Bharat,0.849,0.852,1,-3.876,1,0.0645,0.09870,0.000000,0.0642,0.835,120.015
+3k4l5m6n7b8v9c0x1z2q3w,Chashni,Abhijeet Srivastava,Bharat,0.551,0.621,8,-6.257,1,0.0315,0.45700,0.000000,0.1120,0.358,103.992
+4l5m6n7b8v9c0x1z2q3w4e,Aithey Aa,Akasa Singh,Bharat,0.811,0.880,6,-3.968,0,0.0718,0.08450,0.000000,0.0654,0.827,114.997
+5m6n7b8v9c0x1z2q3w4e5r,Hook Up Song,Neha Kakkar,Student of the Year 2,0.804,0.867,1,-3.969,0,0.0624,0.11200,0.000000,0.0578,0.815,121.996
+6n7b8v9c0x1z2q3w4e5r6t,Chandigarh Mein,Badshah,Good Newwz,0.811,0.885,8,-3.542,1,0.0689,0.12500,0.000000,0.0625,0.803,124.004
+7b8v9c0x1z2q3w4e5r6t7y,Sauda Khara Khara,Diljit Dosanjh,Good Newwz,0.839,0.910,11,-3.125,0,0.0712,0.10300,0.000000,0.0601,0.854,121.011
+0v9c1x2z3q4w5e6r7t8y9u,Makhna,Tanishk Bagchi,Drive,0.821,0.761,0,-5.463,1,0.0494,0.33400,0.000002,0.1030,0.709,104.991
+1c2x3z4q5w6e7r8t9y0u1i,Ghungroo,Arijit Singh,War,0.823,0.826,6,-4.239,0,0.0531,0.15800,0.000000,0.0573,0.841,115.977
+2x3z4q5w6e7r8t9y0u1i2o,Jai Jai Shivshankar,Vishal Dadlani,War,0.844,0.912,1,-3.235,1,0.0754,0.08870,0.000000,0.0598,0.867,125.002
+3z4q5w6e7r8t9y0u1i2o3p,Shaitan Ka Saala,Sohail Sen,Housefull 4,0.871,0.921,8,-3.011,1,0.0812,0.11500,0.000000,0.0612,0.885,127.994
+4q5w6e7r8t9y0u1i2o3p4a,Bala Bala,Sohail Sen,Housefull 4,0.852,0.915,1,-3.123,1,0.0789,0.10200,0.000000,0.0603,0.873,126.001
+5w6e7r8t9y0u1i2o3p4a5s,Muqabla,Yash Narvekar,Street Dancer 3D,0.841,0.901,6,-3.541,0,0.0698,0.12300,0.000000,0.0613,0.852,122.003
+6e7r8t9y0u1i2o3p4a5s6d,Garmi,Badshah,Street Dancer 3D,0.821,0.881,1,-3.784,0,0.0715,0.10500,0.000000,0.0621,0.821,124.998
+7r8t9y0u1i2o3p4a5s6d7f,Illegal Weapon 2.0,Jasmine Sandlas,Street Dancer 3D,0.801,0.871,8,-3.985,0,0.0687,0.11100,0.000000,0.0634,0.811,125.011
+0t9y8u7i6o5p4a3s2d1f0g,Haan Main Galat,Arijit Singh,Love Aaj Kal,0.781,0.861,1,-4.123,0,0.0654,0.10100,0.000000,0.0645,0.801,123.001
+1y2u3i4o5p6a7s8d9f0g1h,Shayad,Arijit Singh,Love Aaj Kal,0.598,0.575,6,-7.485,1,0.0329,0.70000,0.000000,0.1040,0.478,122.019
+2u3i4o5p6a7s8d9f0g1h2j,Malang,Ved Sharma,Malang,0.612,0.781,1,-5.123,0,0.0412,0.32100,0.000000,0.1120,0.412,110.001
+3i4o5p6a7s8d9f0g1h2j3k,Humraah,Sachet Tandon,Malang,0.654,0.811,8,-4.567,0,0.0512,0.21100,0.000000,0.1230,0.512,115.011
+4o5p6a7s8d9f0g1h2j3k4l,Chal Ghar Chalen,Arijit Singh,Malang,0.512,0.611,1,-6.123,0,0.0312,0.41100,0.000000,0.1010,0.312,105.001
+5p6a7s8d9f0g1h2j3k4l5m,Dus Bahane 2.0,Vishal Dadlani,Baaghi 3,0.812,0.891,6,-3.123,0,0.0612,0.11100,0.000000,0.0601,0.812,120.001
+6a7s8d9f0g1h2j3k4l5m6n,Bhankas,Bappi Lahiri,Baaghi 3,0.823,0.901,1,-3.234,0,0.0712,0.10100,0.000000,0.0611,0.823,122.011
+7s8d9f0g1h2j3k4l5m6n7b,Masakali 2.0,Tulsi Kumar,Masakali 2.0,0.712,0.811,8,-4.123,0,0.0512,0.20100,0.000000,0.1110,0.712,110.011
+0d1f2g3h4j5k6l7m8n9b0v,Genda Phool,Badshah,Genda Phool,0.811,0.851,1,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.811,120.011
+1f2g3h4j5k6l7m8n9b0v1c,BurjKhalifa,Shashi,Laxmii,0.812,0.881,6,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.812,122.011
+2g3h4j5k6l7m8n9b0v1c2x,Naach Meri Rani,Guru Randhawa,Naach Meri Rani,0.823,0.891,1,-3.567,0,0.0612,0.10100,0.000000,0.0601,0.823,124.011
+3h4j5k6l7m8n9b0v1c2x3z,Nadiyon Paar,Sachin-Jigar,Roohi,0.834,0.901,8,-3.123,0,0.0712,0.12100,0.000000,0.0611,0.834,126.011
+4j5k6l7m8n9b0v1c2x3z4q,Panghat,Asees Kaur,Roohi,0.812,0.871,1,-3.456,0,0.0612,0.11100,0.000000,0.0601,0.812,123.011
+5k6l7m8n9b0v1c2x3z4q5w,Saiyaan Ji,Yo Yo Honey Singh,Saiyaan Ji,0.823,0.881,6,-3.123,0,0.0712,0.10100,0.000000,0.0611,0.823,125.011
+6l7m8n9b0v1c2x3z4q5w6e,Chhor Denge,Nora Fatehi,Chhor Denge,0.712,0.811,1,-4.234,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+7m8n9b0v1c2x3z4q5w6e7r,Lut Gaye,Jubin Nautiyal,Lut Gaye,0.612,0.711,8,-5.123,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+0n1b2v3c4x5z6q7w8e9r0t,Thoda Thoda Pyaar,Stebin Ben,Thoda Thoda Pyaar,0.512,0.611,1,-6.234,0,0.0312,0.40100,0.000000,0.1110,0.512,106.011
+1b2v3c4x5z6q7w8e9r0t1y,Baarish Ki Jaaye,B Praak,Baarish Ki Jaaye,0.612,0.711,6,-5.456,0,0.0412,0.32100,0.000000,0.1010,0.612,110.011
+2v3c4x5z6q7w8e9r0t1y2u,Filhaal2 Mohabbat,B Praak,Filhaal2 Mohabbat,0.512,0.611,1,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+3c4x5z6q7w8e9r0t1y2u3i,Paani Paani,Badshah,Paani Paani,0.712,0.811,8,-4.234,0,0.0512,0.21100,0.000000,0.1010,0.712,112.011
+4x5z6q7w8e9r0t1y2u3i4o,Bachpan Ka Pyaar,Badshah,Bachpan Ka Pyaar,0.812,0.851,1,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+5z6q7w8e9r0t1y2u3i4o5p,Raataan Lambiyan,Jubin Nautiyal,Shershaah,0.722,0.598,9,-6.299,1,0.0313,0.48300,0.000000,0.1070,0.385,107.999
+6q7w8e9r0t1y2u3i4o5p6a,Ranjha,B Praak,Shershaah,0.612,0.711,1,-5.123,0,0.0412,0.31100,0.000000,0.1110,0.612,108.011
+7w8e9r0t1y2u3i4o5p6a7s,Mann Bharryaa 2.0,B Praak,Shershaah,0.512,0.611,6,-6.234,0,0.0312,0.40100,0.000000,0.1010,0.512,106.011
+0e1r2t3y4u5i6o7p8a9s0d,Kabhii Tumhhe,Darshan Raval,Shershaah,0.512,0.611,1,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+1r2t3y4u5i6o7p8a9s0d1f,Barsaat Ki Dhun,Jubin Nautiyal,Barsaat Ki Dhun,0.612,0.711,8,-5.456,0,0.0412,0.32100,0.000000,0.1010,0.612,110.011
+2t3y4u5i6o7p8a9s0d1f2g,Dil Galti Kar Baitha Hai,Jubin Nautiyal,Dil Galti Kar Baitha Hai,0.712,0.811,1,-4.123,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+3y4u5i6o7p8a9s0d1f2g3h,Meri Zindagi Hai Tu,Jubin Nautiyal,Satyameva Jayate 2,0.612,0.711,6,-5.234,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+4u5i6o7p8a9s0d1f2g3h4j,Kusu Kusu,Zahrah S Khan,Satyameva Jayate 2,0.812,0.851,1,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+5i6o7p8a9s0d1f2g3h4j5k,Chandigarh Kare Aashiqui,Sachin-Jigar,Chandigarh Kare Aashiqui,0.812,0.881,8,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.812,122.011
+6o7p8a9s0d1f2g3h4j5k6l,Rait Zara Si,Arijit Singh,Atrangi Re,0.512,0.611,1,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+7p8a9s0d1f2g3h4j5k6l7m,Chaka Chak,Shreya Ghoshal,Atrangi Re,0.812,0.851,6,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+0a1s2d3f4g5h6j7k8l9m0n,Srivalli,Javed Ali,Pushpa - The Rise,0.712,0.811,1,-4.234,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+1s2d3f4g5h6j7k8l9m0n1b,Oo Antava Oo Oo Antava,Indravathi Chauhan,Pushpa - The Rise,0.812,0.881,8,-3.123,0,0.0712,0.11100,0.000000,0.0611,0.812,122.011
+2d3f4g5h6j7k8l9m0n1b2v,Saami Saami,Mounika Yadav,Pushpa - The Rise,0.823,0.891,1,-3.567,0,0.0612,0.10100,0.000000,0.0601,0.823,124.011
+3f4g5h6j7k8l9m0n1b2v3c,Gehraiyaan,Lothika,Gehraiyaan,0.512,0.611,6,-6.234,0,0.0312,0.40100,0.000000,0.1010,0.512,106.011
+4g5h6j7k8l9m0n1b2v3c4x,Doobey,Lothika,Gehraiyaan,0.612,0.711,1,-5.123,0,0.0412,0.31100,0.000000,0.1110,0.612,108.011
+5h6j7k8l9m0n1b2v3c4x5z,Beqaaboo,OAFF,Gehraiyaan,0.712,0.811,8,-4.234,0,0.0512,0.21100,0.000000,0.1010,0.712,112.011
+6j7k8l9m0n1b2v3c4x5z6q,Meri Jaan,Neeti Mohan,Gangubai Kathiawadi,0.612,0.711,1,-5.456,0,0.0412,0.32100,0.000000,0.1010,0.612,110.011
+7k8l9m0n1b2v3c4x5z6q7w,Dholida,Janhvi Shrimankar,Gangubai Kathiawadi,0.812,0.851,6,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+0l1m2n3b4v5c6x7z8q9w0e,Jhume Re Gori,Archana Gore,Gangubai Kathiawadi,0.823,0.881,1,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+1m2n3b4v5c6x7z8q9w0e1r,Jab Saiyaan,Shreya Ghoshal,Gangubai Kathiawadi,0.512,0.611,8,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+2n3b4v5c6x7z8q9w0e1r2t,The Monster Song,Adithi Sagar,K.G.F: Chapter 2,0.812,0.891,1,-3.123,0,0.0612,0.11100,0.000000,0.0601,0.812,120.011
+3b4v5c6x7z8q9w0e1r2t3y,Toofan,Sandesh Datta Naik,K.G.F: Chapter 2,0.823,0.901,6,-3.234,0,0.0712,0.10100,0.000000,0.0611,0.823,122.011
+4v5c6x7z8q9w0e1r2t3y4u,Mehabooba,Ananya Bhat,K.G.F: Chapter 2,0.712,0.811,1,-4.123,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+5c6x7z8q9w0e1r2t3y4u5i,Bhool Bhulaiyaa 2,Neeraj Shridhar,Bhool Bhulaiyaa 2,0.812,0.851,8,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+6x7z8q9w0e1r2t3y4u5i6o,Hum Nashe Mein Toh Nahin,Arijit Singh,Bhool Bhulaiyaa 2,0.612,0.711,1,-5.234,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+7z8q9w0e1r2t3y4u5i6o7p,De Taali,Yo Yo Honey Singh,Bhool Bhulaiyaa 2,0.823,0.881,6,-3.123,0,0.0712,0.10100,0.000000,0.0611,0.823,125.011
+0q1w2e3r4t5y6u7i8o9p0a,The Punjaabban Song,Gippy Grewal,Jugjugg Jeeyo,0.812,0.891,1,-3.123,0,0.0612,0.11100,0.000000,0.0601,0.812,120.011
+1w2e3r4t5y6u7i8o9p0a1s,Rangisari,Kanishk Seth,Jugjugg Jeeyo,0.712,0.811,8,-4.234,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+2e3r4t5y6u7i8o9p0a1s2d,Dupatta,Shashwat Singh,Jugjugg Jeeyo,0.823,0.881,1,-3.567,0,0.0612,0.10100,0.000000,0.0601,0.823,124.011
+3r4t5y6u7i8o9p0a1s2d3f,Nain Ta Heere,Guru Randhawa,Jugjugg Jeeyo,0.612,0.711,6,-5.123,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+4t5y6u7i8o9p0a1s2d3f4g,Kesariya,Arijit Singh,Brahmastra,0.658,0.734,1,-6.649,1,0.0379,0.42400,0.000000,0.1120,0.533,93.978
+5y6u7i8o9p0a1s2d3f4g5h,Deva Deva,Arijit Singh,Brahmastra,0.612,0.781,8,-5.234,0,0.0412,0.32100,0.000000,0.1110,0.612,110.011
+6u7i8o9p0a1s2d3f4g5h6j,Dance Ka Bhoot,Arijit Singh,Brahmastra,0.812,0.891,1,-3.123,0,0.0612,0.11100,0.000000,0.0601,0.812,120.011
+7i8o9p0a1s2d3f4g5h6j7k,Apna Bana Le,Arijit Singh,Bhediya,0.470,0.478,7,-7.185,1,0.0315,0.75100,0.000000,0.1060,0.252,87.087
+0o1p2a3s4d5f6g7h8j9k0l,Thumkeshwari,Sachin-Jigar,Bhediya,0.812,0.851,6,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+1p2a3s4d5f6g7h8j9k0l1m,Jungle Mein Kaand,Vishal Dadlani,Bhediya,0.823,0.881,1,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+2a3s4d5f6g7h8j9k0l1m2n,Besharam Rang,Shilpa Rao,Pathaan,0.712,0.811,8,-4.123,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+3s4d5f6g7h8j9k0l1m2n3b,Jhoome Jo Pathaan,Arijit Singh,Pathaan,0.812,0.891,1,-3.567,0,0.0612,0.11100,0.000000,0.0601,0.812,120.011
+4d5f6g7h8j9k0l1m2n3b4v,O Bedardeya,Arijit Singh,Tu Jhoothi Main Makkaar,0.512,0.611,6,-6.234,0,0.0312,0.40100,0.000000,0.1010,0.512,106.011
+5f6g7h8j9k0l1m2n3b4v5c,Tere Pyaar Mein,Arijit Singh,Tu Jhoothi Main Makkaar,0.612,0.711,1,-5.123,0,0.0412,0.31100,0.000000,0.1110,0.612,108.011
+6g7h8j9k0l1m2n3b4v5c6x,Pyaar Hota Kayi Baar Hai,Arijit Singh,Tu Jhoothi Main Makkaar,0.812,0.851,8,-3.234,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+7h8j9k0l1m2n3b4v5c6x7z,Show Me The Thumka,Sunidhi Chauhan,Tu Jhoothi Main Makkaar,0.823,0.881,1,-3.567,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+0j9k1l2m3n4b5v6c7x8z9q,Naiyo Lagda,Kamaal Khan,Kisi Ka Bhai Kisi Ki Jaan,0.512,0.611,6,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+1k2l3m4n5b6v7c8x9z0q1w,Billi Billi,Sukhbir,Kisi Ka Bhai Kisi Ki Jaan,0.812,0.891,1,-3.234,0,0.0612,0.11100,0.000000,0.0601,0.812,120.011
+2l3m4n5b6v7c8x9z0q1w2e,Jee Rahe The Hum,Salman Khan,Kisi Ka Bhai Kisi Ki Jaan,0.512,0.611,8,-6.234,0,0.0312,0.40100,0.000000,0.1010,0.512,106.011
+3m4n5b6v7c8x9z0q1w2e3r,Yentamma,Vishal Dadlani,Kisi Ka Bhai Kisi Ki Jaan,0.823,0.881,1,-3.567,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+4n5b6v7c8x9z0q1w2e3r4t,Character Dheela 2.0,Neeraj Shridhar,Shehzada,0.812,0.851,6,-3.123,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+5b6v7c8x9z0q1w2e3r4t5y,Munda Sona Hoon Main,Diljit Dosanjh,Shehzada,0.712,0.811,1,-4.234,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+6v7c8x9z0q1w2e3r4t5y6u,Chedkhaniyan,Arijit Singh,Shehzada,0.612,0.711,8,-5.123,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+7c8x9z0q1w2e3r4t5y6u7i,Mere Sawaal Ka,Shashwat Singh,Shehzada,0.512,0.611,1,-6.234,0,0.0312,0.40100,0.000000,0.1110,0.512,106.011
+0x9z1q2w3e4r5t6y7u8i9o,Phir Aur Kya Chahiye,Arijit Singh,Zara Hatke Zara Bachke,0.612,0.711,6,-5.456,0,0.0412,0.32100,0.000000,0.1010,0.612,110.011
+1z2q3w4e5r6t7y8u9i0o1p,Tere Vaaste,Varun Jain,Zara Hatke Zara Bachke,0.712,0.811,1,-4.123,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+2q3w4e5r6t7y8u9i0o1p2a,Tu Hai To Mujhe Phir Aur Kya Chahiye,Arijit Singh,Zara Hatke Zara Bachke,0.512,0.611,8,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+3w4e5r6t7y8u9i0o1p2a3s,Zihaal e Miskin,Shreya Ghoshal,Zihaal e Miskin,0.612,0.711,1,-5.234,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+4e5r6t7y8u9i0o1p2a3s4d,Kya Loge Tum,B Praak,Kya Loge Tum,0.712,0.811,6,-4.567,0,0.0512,0.20100,0.000000,0.1110,0.712,112.011
+5r6t7y8u9i0o1p2a3s4d5f,Chaleya,Arijit Singh,Jawan,0.812,0.851,1,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+6t7y8u9i0o1p2a3s4d5f6g,Not Ramaiya Vastavaiya,Anirudh Ravichander,Jawan,0.823,0.881,8,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+7y8u9i0o1p2a3s4d5f6g7h,Zinda Banda,Anirudh Ravichander,Jawan,0.834,0.901,1,-3.123,0,0.0712,0.12100,0.000000,0.0611,0.834,126.011
+0u1i2o3p4a5s6d7f8g9h0j,Faraatta,Arijit Singh,Jawan,0.812,0.871,6,-3.456,0,0.0612,0.11100,0.000000,0.0601,0.812,123.011
+1i2o3p4a5s6d7f8g9h0j1k,Heeriye,Arijit Singh,Heeriye,0.712,0.811,1,-4.234,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+2o3p4a5s6d7f8g9h0j1k2l,What Jhumka ?,Arijit Singh,Rocky Aur Rani Kii Prem Kahaani,0.823,0.881,8,-3.123,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+3p4a5s6d7f8g9h0j1k2l3m,Tum Kya Mile,Arijit Singh,Rocky Aur Rani Kii Prem Kahaani,0.612,0.711,1,-5.123,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+4a5s6d7f8g9h0j1k2l3m4n,Dhindhora Baje Re,Darshan Raval,Rocky Aur Rani Kii Prem Kahaani,0.812,0.851,6,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+5s6d7f8g9h0j1k2l3m4n5b,Ve Kamleya,Arijit Singh,Rocky Aur Rani Kii Prem Kahaani,0.512,0.611,1,-6.234,0,0.0312,0.40100,0.000000,0.1110,0.512,106.011
+6d7f8g9h0j1k2l3m4n5b6v,Main Nikla Gaddi Leke,Udit Narayan,Gadar 2,0.812,0.891,8,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.812,122.011
+7f8g9h0j1k2l3m4n5b6v7c,Udd Jaa Kaale Kaava,Udit Narayan,Gadar 2,0.612,0.711,1,-5.123,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+0g9h1j2k3l4m5n6b7v8c9x,Khairiyat,Arijit Singh,Chhichhore,0.654,0.514,0,-8.245,1,0.0336,0.64000,0.000000,0.1080,0.522,102.040
+1h2j3k4l5m6n7b8v9c0x1z,Fikar Not,Nakash Aziz,Chhichhore,0.789,0.888,1,-4.011,1,0.0789,0.13400,0.000000,0.0567,0.845,124.999
+2j3k4l5m6n7b8v9c0x1z2q,Woh Din,Arijit Singh,Chhichhore,0.511,0.455,5,-9.012,1,0.0299,0.78800,0.000000,0.1100,0.321,115.888
+3k4l5m6n7b8v9c0x1z2q3w,Ghungroo,Arijit Singh,War,0.823,0.826,6,-4.239,0,0.0531,0.15800,0.000000,0.0573,0.841,115.977
+4l5m6n7b8v9c0x1z2q3w4e,Jai Jai Shivshankar,Vishal Dadlani,War,0.844,0.912,1,-3.235,1,0.0754,0.08870,0.000000,0.0598,0.867,125.002
+5m6n7b8v9c0x1z2q3w4e5r,Pal Pal Dil Ke Paas,Arijit Singh,Pal Pal Dil Ke Paas,0.547,0.551,0,-6.817,1,0.0302,0.62500,0.000000,0.1110,0.364,104.013
+6n7b8v9c0x1z2q3w4e5r6t,Bekhayali,Sachet Tandon,Kabir Singh,0.496,0.635,9,-6.134,0,0.0366,0.45600,0.000000,0.1130,0.413,109.919
+7b8v9c0x1z2q3w4e5r6t7y,Tera Ban Jaunga,Akhil Sachdeva,Kabir Singh,0.556,0.467,4,-7.811,1,0.0326,0.70700,0.000000,0.1100,0.311,104.020
+0v9c1x2z3q4w5e6r7t8y9u,Tujhe Kitna Chahne Lage,Arijit Singh,Kabir Singh,0.551,0.444,5,-7.904,1,0.0336,0.72900,0.000000,0.1040,0.354,103.882
+1c2x3z4q5w6e7r8t9y0u1i,Mere Sohneya,Sachet Tandon,Kabir Singh,0.523,0.511,0,-7.555,1,0.0301,0.68900,0.000000,0.1090,0.421,100.001
+2x3z4q5w6e7r8t9y0u1i2o,Pachtaoge,Arijit Singh,Pachtaoge,0.688,0.455,9,-7.001,0,0.0388,0.75500,0.000000,0.1080,0.389,95.998
+3z4q5w6e7r8t9y0u1i2o3p,Vaaste,Dhvani Bhanushali,Vaaste,0.711,0.677,1,-5.555,1,0.0455,0.45500,0.000000,0.1110,0.655,104.999
+4q5w6e7r8t9y0u1i2o3p4a,Filhall,B Praak,Filhall,0.655,0.555,6,-6.555,1,0.0355,0.55500,0.000000,0.1050,0.455,109.999
+5w6e7r8t9y0u1i2o3p4a5s,Makhna,Tanishk Bagchi,Drive,0.821,0.761,0,-5.463,1,0.0494,0.33400,0.000002,0.1030,0.709,104.991
+6e7r8t9y0u1i2o3p4a5s6d,Ghungroo,Arijit Singh,War,0.823,0.826,6,-4.239,0,0.0531,0.15800,0.000000,0.0573,0.841,115.977
+7r8t9y0u1i2o3p4a5s6d7f,O Saki Saki,Neha Kakkar,Batla House,0.855,0.888,1,-3.888,0,0.0688,0.18800,0.000000,0.0588,0.888,111.999
+0t9y8u7i6o5p4a3s2d1f0g,Dheeme Dheeme,Tony Kakkar,Pati Patni Aur Woh,0.811,0.855,8,-4.555,1,0.0555,0.15500,0.000000,0.0655,0.855,122.001
+1y2u3i4o5p6a7s8d9f0g1h,Ankhiyon Se Goli Mare,Mika Singh,Pati Patni Aur Woh,0.855,0.877,1,-3.777,0,0.0777,0.17700,0.000000,0.0577,0.877,125.001
+2u3i4o5p6a7s8d9f0g1h2j,Dilbara,B Praak,Pati Patni Aur Woh,0.555,0.655,6,-5.555,1,0.0355,0.45500,0.000000,0.1050,0.455,109.999
+3i4o5p6a7s8d9f0g1h2j3k,Sauda Khara Khara,Diljit Dosanjh,Good Newwz,0.839,0.910,11,-3.125,0,0.0712,0.10300,0.000000,0.0601,0.854,121.011
+4o5p6a7s8d9f0g1h2j3k4l,Chandigarh Mein,Badshah,Good Newwz,0.811,0.885,8,-3.542,1,0.0689,0.12500,0.000000,0.0625,0.803,124.004
+5p6a7s8d9f0g1h2j3k4l5m,Maana Dil,B Praak,Good Newwz,0.555,0.555,1,-6.555,1,0.0355,0.55500,0.000000,0.1050,0.355,108.001
+6a7s8d9f0g1h2j3k4l5m6n,Garmi,Badshah,Street Dancer 3D,0.821,0.881,1,-3.784,0,0.0715,0.10500,0.000000,0.0621,0.821,124.998
+7s8d9f0g1h2j3k4l5m6n7b,Illegal Weapon 2.0,Jasmine Sandlas,Street Dancer 3D,0.801,0.871,8,-3.985,0,0.0687,0.11100,0.000000,0.0634,0.811,125.011
+0d1f2g3h4j5k6l7m8n9b0v,Muqabla,Yash Narvekar,Street Dancer 3D,0.841,0.901,6,-3.541,0,0.0698,0.12300,0.000000,0.0613,0.852,122.003
+1f2g3h4j5k6l7m8n9b0v1c,Lagdi Lahore Di,Guru Randhawa,Street Dancer 3D,0.788,0.855,1,-4.555,0,0.0555,0.15500,0.000000,0.0655,0.855,120.001
+2g3h4j5k6l7m8n9b0v1c2x,Shayad,Arijit Singh,Love Aaj Kal,0.598,0.575,6,-7.485,1,0.0329,0.70000,0.000000,0.1040,0.478,122.019
+3h4j5k6l7m8n9b0v1c2x3z,Haan Main Galat,Arijit Singh,Love Aaj Kal,0.781,0.861,1,-4.123,0,0.0654,0.10100,0.000000,0.0645,0.801,123.001
+4j5k6l7m8n9b0v1c2x3z4q,Malang,Ved Sharma,Malang,0.612,0.781,1,-5.123,0,0.0412,0.32100,0.000000,0.1120,0.412,110.001
+5k6l7m8n9b0v1c2x3z4q5w,Humraah,Sachet Tandon,Malang,0.654,0.811,8,-4.567,0,0.0512,0.21100,0.000000,0.1230,0.512,115.011
+6l7m8n9b0v1c2x3z4q5w6e,Chal Ghar Chalen,Arijit Singh,Malang,0.512,0.611,1,-6.123,0,0.0312,0.41100,0.000000,0.1010,0.312,105.001
+7m8n9b0v1c2x3z4q5w6e7r,Dus Bahane 2.0,Vishal Dadlani,Baaghi 3,0.812,0.891,6,-3.123,0,0.0612,0.11100,0.000000,0.0601,0.812,120.001
+0n1b2v3c4x5z6q7w8e9r0t,Bhankas,Bappi Lahiri,Baaghi 3,0.823,0.901,1,-3.234,0,0.0712,0.10100,0.000000,0.0611,0.823,122.011
+1b2v3c4x5z6q7w8e9r0t1y,Do You Love Me,Nikhita,Baaghi 3,0.855,0.877,8,-3.777,0,0.0777,0.17700,0.000000,0.0577,0.877,125.001
+2v3c4x5z6q7w8e9r0t1y2u,Masakali 2.0,Tulsi Kumar,Masakali 2.0,0.711,0.677,1,-5.555,1,0.0455,0.45500,0.000000,0.1110,0.655,104.999
+3c4x5z6q7w8e9r0t1y2u3i,Genda Phool,Badshah,Genda Phool,0.811,0.855,6,-4.555,1,0.0555,0.15500,0.000000,0.0655,0.855,122.001
+4x5z6q7w8e9r0t1y2u3i4o,Mere Angne Mein,Neha Kakkar,Mere Angne Mein,0.855,0.877,1,-3.777,0,0.0777,0.17700,0.000000,0.0577,0.877,125.001
+5z6q7w8e9r0t1y2u3i4o5p,Kalla Sohna Nai,Akhil,Kalla Sohna Nai,0.711,0.677,8,-5.555,1,0.0455,0.45500,0.000000,0.1110,0.655,104.999
+6q7w8e9r0t1y2u3i4o5p6a,BurjKhalifa,Shashi,Laxmii,0.811,0.855,1,-4.555,0,0.0555,0.15500,0.000000,0.0655,0.855,122.001
+7w8e9r0t1y2u3i4o5p6a7s,Naach Meri Rani,Guru Randhawa,Naach Meri Rani,0.855,0.877,6,-3.777,0,0.0777,0.17700,0.000000,0.0577,0.877,125.001
+0e1r2t3y4u5i6o7p8a9s0d,Lut Gaye,Jubin Nautiyal,Lut Gaye,0.711,0.677,1,-5.555,1,0.0455,0.45500,0.000000,0.1110,0.655,104.999
+1r2t3y4u5i6o7p8a9s0d1f,Thoda Thoda Pyaar,Stebin Ben,Thoda Thoda Pyaar,0.655,0.555,8,-6.555,1,0.0355,0.55500,0.000000,0.1050,0.455,109.999
+2t3y4u5i6o7p8a9s0d1f2g,Baarish Ki Jaaye,B Praak,Baarish Ki Jaaye,0.711,0.677,1,-5.555,1,0.0455,0.45500,0.000000,0.1110,0.655,104.999
+3y4u5i6o7p8a9s0d1f2g3h,Filhaal2 Mohabbat,B Praak,Filhaal2 Mohabbat,0.655,0.555,6,-6.555,1,0.0355,0.55500,0.000000,0.1050,0.455,109.999
+4u5i6o7p8a9s0d1f2g3h4j,Paani Paani,Badshah,Paani Paani,0.811,0.855,1,-4.555,0,0.0555,0.15500,0.000000,0.0655,0.855,122.001
+5i6o7p8a9s0d1f2g3h4j5k,Bachpan Ka Pyaar,Badshah,Bachpan Ka Pyaar,0.855,0.877,8,-3.777,0,0.0777,0.17700,0.000000,0.0577,0.877,125.001
+6o7p8a9s0d1f2g3h4j5k6l,Raataan Lambiyan,Jubin Nautiyal,Shershaah,0.722,0.598,9,-6.299,1,0.0313,0.48300,0.000000,0.1070,0.385,107.999
+7p8a9s0d1f2g3h4j5k6l7m,Ranjha,B Praak,Shershaah,0.612,0.711,1,-5.123,0,0.0412,0.31100,0.000000,0.1110,0.612,108.011
+0a1s2d3f4g5h6j7k8l9m0n,Mann Bharryaa 2.0,B Praak,Shershaah,0.512,0.611,6,-6.234,0,0.0312,0.40100,0.000000,0.1010,0.512,106.011
+1s2d3f4g5h6j7k8l9m0n1b,Kabhii Tumhhe,Darshan Raval,Shershaah,0.512,0.611,1,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+2d3f4g5h6j7k8l9m0n1b2v,Barsaat Ki Dhun,Jubin Nautiyal,Barsaat Ki Dhun,0.612,0.711,8,-5.456,0,0.0412,0.32100,0.000000,0.1010,0.612,110.011
+3f4g5h6j7k8l9m0n1b2v3c,Dil Galti Kar Baitha Hai,Jubin Nautiyal,Dil Galti Kar Baitha Hai,0.712,0.811,1,-4.123,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+4g5h6j7k8l9m0n1b2v3c4x,Meri Zindagi Hai Tu,Jubin Nautiyal,Satyameva Jayate 2,0.612,0.711,6,-5.234,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+5h6j7k8l9m0n1b2v3c4x5z,Kusu Kusu,Zahrah S Khan,Satyameva Jayate 2,0.812,0.851,1,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+6j7k8l9m0n1b2v3c4x5z6q,Chandigarh Kare Aashiqui,Sachin-Jigar,Chandigarh Kare Aashiqui,0.812,0.881,8,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.812,122.011
+7k8l9m0n1b2v3c4x5z6q7w,Rait Zara Si,Arijit Singh,Atrangi Re,0.512,0.611,1,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+0l1m2n3b4v5c6x7z8q9w0e,Chaka Chak,Shreya Ghoshal,Atrangi Re,0.812,0.851,6,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+1m2n3b4v5c6x7z8q9w0e1r,Srivalli,Javed Ali,Pushpa - The Rise,0.712,0.811,1,-4.234,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+2n3b4v5c6x7z8q9w0e1r2t,Oo Antava Oo Oo Antava,Indravathi Chauhan,Pushpa - The Rise,0.812,0.881,8,-3.123,0,0.0712,0.11100,0.000000,0.0611,0.812,122.011
+3b4v5c6x7z8q9w0e1r2t3y,Saami Saami,Mounika Yadav,Pushpa - The Rise,0.823,0.891,1,-3.567,0,0.0612,0.10100,0.000000,0.0601,0.823,124.011
+4v5c6x7z8q9w0e1r2t3y4u,Gehraiyaan,Lothika,Gehraiyaan,0.512,0.611,6,-6.234,0,0.0312,0.40100,0.000000,0.1010,0.512,106.011
+5c6x7z8q9w0e1r2t3y4u5i,Doobey,Lothika,Gehraiyaan,0.612,0.711,1,-5.123,0,0.0412,0.31100,0.000000,0.1110,0.612,108.011
+6x7z8q9w0e1r2t3y4u5i6o,Beqaaboo,OAFF,Gehraiyaan,0.712,0.811,8,-4.234,0,0.0512,0.21100,0.000000,0.1010,0.712,112.011
+7z8q9w0e1r2t3y4u5i6o7p,Meri Jaan,Neeti Mohan,Gangubai Kathiawadi,0.612,0.711,1,-5.456,0,0.0412,0.32100,0.000000,0.1010,0.612,110.011
+0q1w2e3r4t5y6u7i8o9p0a,Dholida,Janhvi Shrimankar,Gangubai Kathiawadi,0.812,0.851,6,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+1w2e3r4t5y6u7i8o9p0a1s,Jhume Re Gori,Archana Gore,Gangubai Kathiawadi,0.823,0.881,1,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+2e3r4t5y6u7i8o9p0a1s2d,Jab Saiyaan,Shreya Ghoshal,Gangubai Kathiawadi,0.512,0.611,8,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+3r4t5y6u7i8o9p0a1s2d3f,The Monster Song,Adithi Sagar,K.G.F: Chapter 2,0.812,0.891,1,-3.123,0,0.0612,0.11100,0.000000,0.0601,0.812,120.011
+4t5y6u7i8o9p0a1s2d3f4g,Toofan,Sandesh Datta Naik,K.G.F: Chapter 2,0.823,0.901,6,-3.234,0,0.0712,0.10100,0.000000,0.0611,0.823,122.011
+5y6u7i8o9p0a1s2d3f4g5h,Mehabooba,Ananya Bhat,K.G.F: Chapter 2,0.712,0.811,1,-4.123,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+6u7i8o9p0a1s2d3f4g5h6j,Bhool Bhulaiyaa 2,Neeraj Shridhar,Bhool Bhulaiyaa 2,0.812,0.851,8,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+7i8o9p0a1s2d3f4g5h6j7k,Hum Nashe Mein Toh Nahin,Arijit Singh,Bhool Bhulaiyaa 2,0.612,0.711,1,-5.234,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+0o1p2a3s4d5f6g7h8j9k0l,De Taali,Yo Yo Honey Singh,Bhool Bhulaiyaa 2,0.823,0.881,6,-3.123,0,0.0712,0.10100,0.000000,0.0611,0.823,125.011
+1p2a3s4d5f6g7h8j9k0l1m,The Punjaabban Song,Gippy Grewal,Jugjugg Jeeyo,0.812,0.891,1,-3.123,0,0.0612,0.11100,0.000000,0.0601,0.812,120.011
+2a3s4d5f6g7h8j9k0l1m2n,Rangisari,Kanishk Seth,Jugjugg Jeeyo,0.712,0.811,8,-4.234,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+3s4d5f6g7h8j9k0l1m2n3b,Dupatta,Shashwat Singh,Jugjugg Jeeyo,0.823,0.881,1,-3.567,0,0.0612,0.10100,0.000000,0.0601,0.823,124.011
+4d5f6g7h8j9k0l1m2n3b4v,Nain Ta Heere,Guru Randhawa,Jugjugg Jeeyo,0.612,0.711,6,-5.123,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+5f6g7h8j9k0l1m2n3b4v5c,Kesariya,Arijit Singh,Brahmastra,0.658,0.734,1,-6.649,1,0.0379,0.42400,0.000000,0.1120,0.533,93.978
+6g7h8j9k0l1m2n3b4v5c6x,Deva Deva,Arijit Singh,Brahmastra,0.612,0.781,8,-5.234,0,0.0412,0.32100,0.000000,0.1110,0.612,110.011
+7h8j9k0l1m2n3b4v5c6x7z,Dance Ka Bhoot,Arijit Singh,Brahmastra,0.812,0.891,1,-3.123,0,0.0612,0.11100,0.000000,0.0601,0.812,120.011
+0j9k1l2m3n4b5v6c7x8z9q,Apna Bana Le,Arijit Singh,Bhediya,0.470,0.478,7,-7.185,1,0.0315,0.75100,0.000000,0.1060,0.252,87.087
+1k2l3m4n5b6v7c8x9z0q1w,Thumkeshwari,Sachin-Jigar,Bhediya,0.812,0.851,6,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+2l3m4n5b6v7c8x9z0q1w2e,Jungle Mein Kaand,Vishal Dadlani,Bhediya,0.823,0.881,1,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+3m4n5b6v7c8x9z0q1w2e3r,Besharam Rang,Shilpa Rao,Pathaan,0.712,0.811,8,-4.123,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+4n5b6v7c8x9z0q1w2e3r4t,Jhoome Jo Pathaan,Arijit Singh,Pathaan,0.812,0.891,1,-3.567,0,0.0612,0.11100,0.000000,0.0601,0.812,120.011
+5b6v7c8x9z0q1w2e3r4t5y,O Bedardeya,Arijit Singh,Tu Jhoothi Main Makkaar,0.512,0.611,6,-6.234,0,0.0312,0.40100,0.000000,0.1010,0.512,106.011
+6v7c8x9z0q1w2e3r4t5y6u,Tere Pyaar Mein,Arijit Singh,Tu Jhoothi Main Makkaar,0.612,0.711,1,-5.123,0,0.0412,0.31100,0.000000,0.1110,0.612,108.011
+7c8x9z0q1w2e3r4t5y6u7i,Pyaar Hota Kayi Baar Hai,Arijit Singh,Tu Jhoothi Main Makkaar,0.812,0.851,8,-3.234,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+0x9z1q2w3e4r5t6y7u8i9o,Show Me The Thumka,Sunidhi Chauhan,Tu Jhoothi Main Makkaar,0.823,0.881,1,-3.567,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+1z2q3w4e5r6t7y8u9i0o1p,Naiyo Lagda,Kamaal Khan,Kisi Ka Bhai Kisi Ki Jaan,0.512,0.611,6,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+2q3w4e5r6t7y8u9i0o1p2a,Billi Billi,Sukhbir,Kisi Ka Bhai Kisi Ki Jaan,0.812,0.891,1,-3.234,0,0.0612,0.11100,0.000000,0.0601,0.812,120.011
+3w4e5r6t7y8u9i0o1p2a3s,Jee Rahe The Hum,Salman Khan,Kisi Ka Bhai Kisi Ki Jaan,0.512,0.611,8,-6.234,0,0.0312,0.40100,0.000000,0.1010,0.512,106.011
+4e5r6t7y8u9i0o1p2a3s4d,Yentamma,Vishal Dadlani,Kisi Ka Bhai Kisi Ki Jaan,0.823,0.881,1,-3.567,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+5r6t7y8u9i0o1p2a3s4d5f,Character Dheela 2.0,Neeraj Shridhar,Shehzada,0.812,0.851,6,-3.123,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+6t7y8u9i0o1p2a3s4d5f6g,Munda Sona Hoon Main,Diljit Dosanjh,Shehzada,0.712,0.811,1,-4.234,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+7y8u9i0o1p2a3s4d5f6g7h,Chedkhaniyan,Arijit Singh,Shehzada,0.612,0.711,8,-5.123,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+0u1i2o3p4a5s6d7f8g9h0j,Mere Sawaal Ka,Shashwat Singh,Shehzada,0.512,0.611,1,-6.234,0,0.0312,0.40100,0.000000,0.1110,0.512,106.011
+1i2o3p4a5s6d7f8g9h0j1k,Phir Aur Kya Chahiye,Arijit Singh,Zara Hatke Zara Bachke,0.612,0.711,6,-5.456,0,0.0412,0.32100,0.000000,0.1010,0.612,110.011
+2o3p4a5s6d7f8g9h0j1k2l,Tere Vaaste,Varun Jain,Zara Hatke Zara Bachke,0.712,0.811,1,-4.123,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+3p4a5s6d7f8g9h0j1k2l3m,Tu Hai To Mujhe Phir Aur Kya Chahiye,Arijit Singh,Zara Hatke Zara Bachke,0.512,0.611,8,-6.123,0,0.0312,0.41100,0.000000,0.1110,0.512,107.011
+4a5s6d7f8g9h0j1k2l3m4n,Zihaal e Miskin,Shreya Ghoshal,Zihaal e Miskin,0.612,0.711,1,-5.234,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+5s6d7f8g9h0j1k2l3m4n5b,Kya Loge Tum,B Praak,Kya Loge Tum,0.712,0.811,6,-4.567,0,0.0512,0.20100,0.000000,0.1110,0.712,112.011
+6d7f8g9h0j1k2l3m4n5b6v,Chaleya,Arijit Singh,Jawan,0.812,0.851,1,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+7f8g9h0j1k2l3m4n5b6v7c,Not Ramaiya Vastavaiya,Anirudh Ravichander,Jawan,0.823,0.881,8,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+0g9h1j2k3l4m5n6b7v8c9x,Zinda Banda,Anirudh Ravichander,Jawan,0.834,0.901,1,-3.123,0,0.0712,0.12100,0.000000,0.0611,0.834,126.011
+1h2j3k4l5m6n7b8v9c0x1z,Faraatta,Arijit Singh,Jawan,0.812,0.871,6,-3.456,0,0.0612,0.11100,0.000000,0.0601,0.812,123.011
+2j3k4l5m6n7b8v9c0x1z2q,Heeriye,Arijit Singh,Heeriye,0.712,0.811,1,-4.234,0,0.0512,0.21100,0.000000,0.1110,0.712,112.011
+3k4l5m6n7b8v9c0x1z2q3w,What Jhumka ?,Arijit Singh,Rocky Aur Rani Kii Prem Kahaani,0.823,0.881,8,-3.123,0,0.0712,0.11100,0.000000,0.0611,0.823,122.011
+4l5m6n7b8v9c0x1z2q3w4e,Tum Kya Mile,Arijit Singh,Rocky Aur Rani Kii Prem Kahaani,0.612,0.711,1,-5.123,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
+5m6n7b8v9c0x1z2q3w4e5r,Dhindhora Baje Re,Darshan Raval,Rocky Aur Rani Kii Prem Kahaani,0.812,0.851,6,-3.567,0,0.0612,0.12100,0.000000,0.0601,0.812,120.011
+6n7b8v9c0x1z2q3w4e5r6t,Ve Kamleya,Arijit Singh,Rocky Aur Rani Kii Prem Kahaani,0.512,0.611,1,-6.234,0,0.0312,0.40100,0.000000,0.1110,0.512,106.011
+7b8v9c0x1z2q3w4e5r6t7y,Main Nikla Gaddi Leke,Udit Narayan,Gadar 2,0.812,0.891,8,-3.234,0,0.0712,0.11100,0.000000,0.0611,0.812,122.011
+0v9c1x2z3q4w5e6r7t8y9u,Udd Jaa Kaale Kaava,Udit Narayan,Gadar 2,0.612,0.711,1,-5.123,0,0.0412,0.31100,0.000000,0.1010,0.612,108.011
