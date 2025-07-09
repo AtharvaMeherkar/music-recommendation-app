@@ -21,22 +21,8 @@
 
 **Interact with the live application here:**
 
-### **[https://your-streamlit-app-url.streamlit.app/](https://your-streamlit-app-url.streamlit.app/)**
+### **[PROJECT LIVE](https://vibe-generator.streamlit.app/)**
 
-*(You can deploy this app on Streamlit Community Cloud and add the link here!)*
-
-<br>
-
-<div align="center">
-    
-*A quick demonstration of the app's features in action.*
-<img src="https://i.imgur.com/your-gif-url.gif" alt="App Demo GIF" width="800"/>
-
-</div>
-
-*(**Pro Tip:** Use a tool like [ScreenToGif](https://www.screentogif.com/) to record a GIF of you using the app. Upload it to [Imgur](https://imgur.com/upload) and replace the link above for a professional touch.)*
-
----
 
 ## 📋 Table of Contents
 - [✨ Key Features](#-key-features)
@@ -113,10 +99,9 @@ To get this project running on your local machine, please follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/vibe-generator-app.git](https://github.com/your-username/vibe-generator-app.git)
+    git clone [https://github.com/AtharvaMeherkar/vibe-generator-app.git](https://github.com/AtharvaMeherkar/vibe-generator-app.git)
     cd vibe-generator-app
     ```
-    *(Replace `your-username` with your actual GitHub username)*
 
 2.  **Create a virtual environment:**
     ```bash
@@ -157,6 +142,6 @@ The application will automatically open in a new tab in your web browser!
 
 ## 📞 Contact
 
-Your Name - `your.email@example.com`
+Your Name - `atharvameherkar123@gmail.com`
 
-Project Link: [https://github.com/your-username/vibe-generator-app](https://github.com/your-username/vibe-generator-app)
+Project Link: [AtharvaMeherkar](https://github.com/AtharvaMeherkar/vibe-generator-app)
