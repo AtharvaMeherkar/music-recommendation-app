@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/components/extras/images/logo.png" alt="Streamlit Logo" width="150"/>
-
 # 🎵 AI Vibe Generator 🎶
 
 ### An Intelligent Music Recommendation Engine with Python & Streamlit
